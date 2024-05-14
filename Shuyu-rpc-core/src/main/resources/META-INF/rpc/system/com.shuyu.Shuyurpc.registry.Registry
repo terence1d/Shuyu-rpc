@@ -1,0 +1,2 @@
+etcd=registry.com.shuyu.Shuyurpc.EtcdRegistry
+zookeeper=registry.com.shuyu.Shuyurpc.ZooKeeperRegistry

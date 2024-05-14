@@ -1,0 +1,4 @@
+jdk=serializer.com.shuyu.Shuyurpc.JdkSerializer
+hessian=serializer.com.shuyu.Shuyurpc.HessianSerializer
+json=serializer.com.shuyu.Shuyurpc.JsonSerializer
+kryo=serializer.com.shuyu.Shuyurpc.KryoSerializer

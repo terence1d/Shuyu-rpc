@@ -1,0 +1,3 @@
+roundRobin=loadbalancer.com.shuyu.Shuyurpc.RoundRobinLoadBalancer
+random=loadbalancer.com.shuyu.Shuyurpc.RandomLoadBalancer
+consistentHash=loadbalancer.com.shuyu.Shuyurpc.ConsistentHashLoadBalancer

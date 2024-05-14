@@ -1,0 +1,4 @@
+failBack=tolerant.fault.com.shuyu.Shuyurpc.FailBackTolerantStrategy
+failFast=tolerant.fault.com.shuyu.Shuyurpc.FailFastTolerantStrategy
+failOver=tolerant.fault.com.shuyu.Shuyurpc.FailOverTolerantStrategy
+failSafe=tolerant.fault.com.shuyu.Shuyurpc.FailSafeTolerantStrategy
